@@ -37,7 +37,6 @@ I’m passionate about **software architecture**, **clean code**, and building s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abir_Ahsan-blue?logo=linkedin)](https://linkedin.com/in/abirahsan)
 [![Gmail](https://img.shields.io/badge/Email-abir.ahsan007@gmail.com-red?logo=gmail)](mailto:mail.abirahsan@gmail.com)
 
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abirahsan007&theme=react-dark)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=abirahsan007)
